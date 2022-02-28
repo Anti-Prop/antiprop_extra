@@ -8,6 +8,7 @@
         
 <?php include 'scripts/main.php';
 ?>
+        
 </head>
 <body>
 <h1>Anti-Propaganda Script 🇺🇦</h1>
