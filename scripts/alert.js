@@ -1,1 +1,1 @@
-window.alert("Thank you for helping out.")
+window.alert("Thank you for helping out. If you can and want to help more, you can donate to charity. Click the "take me there" button to see a list of charities that are helping with the Russian invasion of Ukraine. 🇺🇦")
